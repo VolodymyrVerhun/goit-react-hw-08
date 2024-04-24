@@ -1,0 +1,14 @@
+.li {
+  text-decoration: none;
+  color: black;
+  margin: 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.li:hover {
+  color: rgba(0, 0, 255, 0.676);
+}
+.active {
+  color: rgba(0, 0, 255, 0.676);
+}
